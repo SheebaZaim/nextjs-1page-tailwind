@@ -1,0 +1,63 @@
+
+
+{
+    
+    "courses":[
+        {
+            "id": 1 ,
+            "title": "Guitar funadamentals",
+            "slug":"guitar-funadamentals",
+            "description":"Learn basics with our comprehensive beginner course",
+            "price":99,
+            "instructor":"Fahad Mirza",
+            "isfeatured":"true",
+            "image":""
+        },
+        
+        {"id": 2 ,
+        "title": "Piano funadamentals",
+        "slug":"piano-funadamentals",
+        "description":"Learn basics  of playing piano with our comprehensive beginner course",
+        "price":199,
+        "instructor":"Ali",
+        "isfeatured":"true",
+        "image":""
+
+        }, 
+
+        {"id": 3 ,
+        "title": "Advance vocal techniques",
+        "slug":"advance_vocal techniques",
+        "description":"enhance your singing skills by advance vocal techniques by our professionals",
+        "price":299,
+        "instructor":"Emily Jatson",
+        "isfeatured":"true",
+        "image":""
+
+        }, 
+
+        {"id": 4 ,
+        "title": "Drum Mastery",
+        "slug":"drum-mastery",
+        "description":"Elevate your drumer skills from basic to advance level from our advance  course",
+        "price":599,
+        "instructor":"John Duke",
+        "isfeatured":"false",
+        "image":""
+
+        },
+        {"id": 5,
+        "title": "Jazz Improvisation",
+        "slug":"jazz-improvisation",
+        "description":"Learn art of improvisation  with the professionals, equipping  you advance level skills by our well designed course",
+        "price":250,
+        "instructor":"Milk John",
+        "isfeatured":"false",
+        "image":""
+
+        }
+    ]
+    
+
+    
+}
